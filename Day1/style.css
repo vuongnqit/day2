@@ -1,0 +1,28 @@
+.header {
+  width: 100px;
+  height: 100px;
+  background-color: #232536;
+}
+.header__wrapper {
+  width: 100%;
+}
+.header__logo {
+  font-size: 20px;
+}
+.header__links {
+  width: 100%;
+}
+.header__link--home {
+  width: 100%;
+}
+.header__link--blog {
+  width: 100%;
+}
+.header__link--about {
+  width: 100%;
+}
+.header__link--contact {
+  width: 100%;
+}
+
+/*# sourceMappingURL=style.css.map */
